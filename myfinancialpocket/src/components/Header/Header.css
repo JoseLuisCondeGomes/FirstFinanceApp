@@ -1,0 +1,14 @@
+header {
+    background-color: #44629C;
+    height: 10rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+header img {
+    border-radius: 50%;
+    margin: 20px;
+    height: auto;
+    width: auto;
+}
