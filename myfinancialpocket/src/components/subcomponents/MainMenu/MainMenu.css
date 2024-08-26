@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    color:chartreuse;
+    list-style: none;
+}
+
+ul li {
+    margin: 20px;
+}
